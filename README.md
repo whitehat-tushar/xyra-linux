@@ -6,6 +6,7 @@ It targets desktop users who want Linux to feel *finished* rather than endlessly
 
 Xyra prioritizes **defaults, constraints, and integration** over flexibility and bleeding-edge features.
 
+DIRECT DOWNLOAD LINK- https://sourceforge.net/projects/xyra-linux/files/xyra-linux-0.1-amd64.iso/download
 ---
 
 ## Philosophy
@@ -63,6 +64,7 @@ It is **not** intended for production use.
 These are expected at this stage and will be addressed in future versions.
 
 ---
+DOWNLOAD HERE- https://sourceforge.net/projects/xyra-linux/files/xyra-linux-0.1-amd64.iso/download
 
 ## Verification
 
